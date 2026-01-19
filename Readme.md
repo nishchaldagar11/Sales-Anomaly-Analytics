@@ -43,3 +43,34 @@ Businesses receive large volumes of sales data across regions and categories. Id
 ![Power BI Dashboard](screenshots/powerbi_dashboard.png)
 
 ## 📁 Repository Structure
+
+Sales-Anomaly-Analytics/
+│
+├── data/
+│   ├── Sample-Superstore.csv
+│   └── final_superstore_anomaly.csv
+│
+├── notebooks/
+│   └── data_preprocessing.ipynb
+│
+├── powerbi/
+│   └── Sales_Anomaly_Analytics.pbix
+│
+├── tableau/
+│   └── tableau_dashboard_link.txt
+│
+├── screenshots/
+│   ├── tableau_dashboard.png
+│   └── powerbi_dashboard.png
+│
+└── README.md
+
+
+
+## 🧠 Key Learnings
+- Handling real-world data quality issues  
+- Applying unsupervised ML for anomaly detection  
+- Building enterprise-grade dashboards  
+- Storytelling with data  
+
+
