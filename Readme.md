@@ -37,12 +37,16 @@ Businesses receive large volumes of sales data across regions and categories. Id
 
 ## 🖼️ Dashboard Previews
 ### Tableau
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
+![tableau_dashboard](https://github.com/user-attachments/assets/c3a97452-15f2-4b88-b619-2d80d6e87550)
+
 
 ### Power BI
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![powerbi_dashboard](https://github.com/user-attachments/assets/1a8d5d32-5b5e-4adf-82f6-a3fb7cf8c795)
+
+
 
 ## 📁 Repository Structure
+
 
 Sales-Anomaly-Analytics/
 │
@@ -72,5 +76,6 @@ Sales-Anomaly-Analytics/
 - Applying unsupervised ML for anomaly detection  
 - Building enterprise-grade dashboards  
 - Storytelling with data  
+
 
 
