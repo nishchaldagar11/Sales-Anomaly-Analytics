@@ -45,6 +45,7 @@ Businesses receive large volumes of sales data across regions and categories. Id
 
 
 
+```text
 ## 📁 Repository Structure
 
 
@@ -68,7 +69,7 @@ Sales-Anomaly-Analytics/
 │   └── powerbi_dashboard.png
 │
 └── README.md
-
+```
 
 
 ## 🧠 Key Learnings
@@ -76,6 +77,7 @@ Sales-Anomaly-Analytics/
 - Applying unsupervised ML for anomaly detection  
 - Building enterprise-grade dashboards  
 - Storytelling with data  
+
 
 
 
