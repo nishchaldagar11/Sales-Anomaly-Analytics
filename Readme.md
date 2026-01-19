@@ -57,16 +57,19 @@ Sales-Anomaly-Analytics/
 │
 ├── notebooks/
 │   └── data_preprocessing.ipynb
-│
+|
+|
+├── screenshots/
+│   ├── tableau_dashboard.png
+│   └── powerbi_dashboard.png
+|
+|
 ├── powerbi/
 │   └── Sales_Anomaly_Analytics.pbix
 │
 ├── tableau/
 │   └── tableau_dashboard_link.txt
 │
-├── screenshots/
-│   ├── tableau_dashboard.png
-│   └── powerbi_dashboard.png
 │
 └── README.md
 ```
@@ -77,6 +80,7 @@ Sales-Anomaly-Analytics/
 - Applying unsupervised ML for anomaly detection  
 - Building enterprise-grade dashboards  
 - Storytelling with data  
+
 
 
 
